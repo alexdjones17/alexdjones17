@@ -25,7 +25,8 @@ Friend code: 2111607_ReZA8RXbE6zueR4N0ZDdCcZEUyEA7hoG
 
 [Friend link](https://friend.chess.com/VHD4H)
 
-**Zombs Royale**
-alec#7050
+**Zombs Royale**  
 - 28 Wins
 - 323 Kills
+
+Zombs ID: alec#7050
