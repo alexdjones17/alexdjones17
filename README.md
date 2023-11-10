@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @alexdjones17
-- 👀 I’m interested in Zombs Royale, Billy Vaughn Koen
-- 🌱 I’m currently learning C++ and R
+# Hi, 👋 I’m Alexander
 
-<!---
-alexdjones17/alexdjones17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Poquoson High School and the Governor's School of Science and Technology student. I run cross-country and track and am a member of the Excel Club and FCA for Poquoson, and am a member of the chess club and PyCLub for the Governor's School.
+
+## Languages
+
+**Somewhat know:**
+- Python
+- MATLAB
+  
+**Learning:**
+- C++
+- R
+
+## Random Things
+
+**Project Euler**
+- 19/862 solved
+
+Friend code: 2111607_ReZA8RXbE6zueR4N0ZDdCcZEUyEA7hoG
+
+**Chess**
+- Highest rapid: 891
+- Highest blitz: 750
+
+[Friend link](https://friend.chess.com/VHD4H)
+
+#### Zombs Royale
+alec#7050
+- 28 Wins
+- 323 Kills
