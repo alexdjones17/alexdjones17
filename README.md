@@ -1,6 +1,6 @@
 # Hi, 👋 I’m Alexander
 
-I'm a Poquoson High School and the Governor's School of Science and Technology student. I run cross-country and track and am a member of the Excel Club and FCA for Poquoson, and am a member of the chess club and PyCLub for the Governor's School.
+I'm a Poquoson High School and the Governor's School of Science and Technology student. I run cross-country and track and am a member of the Excel Club and FCA for Poquoson, and am a member of the chess club and PyClub for the Governor's School.
 
 ## Languages
 
