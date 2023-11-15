@@ -1,32 +1,26 @@
-# Hi, 👋 I’m Alexander
+<h1 align="center">Hi 👋, I'm Alexander Jones</h1>
+<h3 align="center">A beginner programmer still in High School</h3>
+<img align="right" alt="Coding" width="400" src="https://www.budgetsaresexy.com/images/working-gif.gif">
 
-I'm a Poquoson High School and the Governor's School of Science and Technology student. I run cross-country and track and am a member of the Excel Club and FCA for Poquoson, and am a member of the chess club and PyClub for the Governor's School.
+- 🔭 I’m currently working on **graduating from high school**
 
-## Languages
+- 🌱 I’m currently learning **C++ and R**
 
-**Somewhat know:**
-- Python
-- MATLAB
-  
-**Learning:**
-- C++
-- R
+- 📫 How to reach me **alexanderdjones17@gmail.com**
 
-## Random Things
+- ⚡ Fun fact **I run cross country and track**
 
-**Project Euler**
-- 19/862 solved
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/alexanderdjones17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexanderdjones17" height="30" width="40" /></a>
+<a href="https://discord.gg/alecdiggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alecdiggy" height="30" width="40" /></a>
+</p>
 
-Friend code: 2111607_ReZA8RXbE6zueR4N0ZDdCcZEUyEA7hoG
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**Chess**
-- Highest rapid: 891
-- Highest blitz: 750
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexdjones17&show_icons=true&locale=en&layout=compact" alt="alexdjones17" /></p>
 
-[Friend link](https://friend.chess.com/VHD4H)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexdjones17&show_icons=true&locale=en" alt="alexdjones17" /></p>
 
-**Zombs Royale**  
-- 29 Wins
-- 347 Kills
-
-Zombs ID: alec#7050
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexdjones17&" alt="alexdjones17" /></p>
