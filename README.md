@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexander Jones</h1>
-<h3 align="center">A beginner programmer still in High School</h3>
+<h3 align="center">A beginner programmer at NC State</h3>
 <img align="right" alt="Coding" width="400" src="https://www.budgetsaresexy.com/images/working-gif.gif">
 
-- 🔭 I’m currently working on **graduating from high school**
+- 🔭 I’m currently working on **graduating from NC State**
 
-- 🌱 I’m currently learning **C++ and R**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **alexanderdjones17@gmail.com**
 
